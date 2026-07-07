@@ -1,0 +1,23 @@
+# PowerShell
+*.ps1xml
+*.clixml
+*.psc1
+*.pssc
+*.psrc
+*.xml
+*.csv
+
+# Logs
+*.log
+*.err
+*.out
+
+# Mac
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Testing
+*.pester.ps1
